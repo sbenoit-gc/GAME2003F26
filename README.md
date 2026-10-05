@@ -13,7 +13,8 @@ Clone, or download the zip, to a local directory. Open in Unreal Engine 5.5 or n
 
 ## Attributions
 1. ForceField Hum, OpenGmeArt Varkalandar, https://opengameart.org/content/force-field-electric-hum
-2. 
+2. Glass bottle break, spookymodem OpenGameArt,https://opengameart.org/content/breaking-bottle 
+3. PBR_Brick, https://polyhaven.com/a/stacked_brick_wall
 
 
 
